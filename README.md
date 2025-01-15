@@ -11,6 +11,3 @@ Upload an image.
 3.Copy the code for use in your design projects.
 # Technologies Used
 HTML, CSS, JavaScript
-# Team
-Team Leader: Mohammed Thaha A.W
-Team Members: Harish Kumar M,Mohammed Irfan M,Gowtham A
